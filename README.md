@@ -1,2 +1,2 @@
 # django_sample_app
-Hi
+Hi, another change
